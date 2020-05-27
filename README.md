@@ -8,3 +8,4 @@
 | 0020  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|O(n)|O(n) |Easy| Stack |
 | 0253  |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|O(nlogn)|O(n) |Medium| Implement min-heap using PriorityQueue|
 | 0013  |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|O(1)|O(1) |Easy| Linear scan from left to right. |
+| 0005  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|O(n^2)|O(n^2) |Medium| |
