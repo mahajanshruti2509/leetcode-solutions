@@ -10,4 +10,4 @@
 | 0013  |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|O(1)|O(1) |Easy| Linear scan from left to right. |
 | 0005  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|O(n^2)|O(n^2) |Medium| |
 | 0139  |[Word Break](https://leetcode.com/problems/word-break/)|O(n^2)|O(n) |Medium| |
-
+| 056  |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|O(nlogn)|O(n) |Medium| |
