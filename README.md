@@ -12,3 +12,4 @@
 | 0139  |[Word Break](https://leetcode.com/problems/word-break/)|O(n^2)|O(n) |Medium| |
 | 056  |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|O(nlogn)|O(n) |Medium| |
 | 443  |[String Compression](https://leetcode.com/problems/string-compression/)|O(n)|O(1) |Easy| |
+| 973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|O(n + K)logn|O(n) |Medium| Use TreeMap, distance as key and an arrayList of points|
