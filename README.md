@@ -11,3 +11,4 @@
 | 0005  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|O(n^2)|O(n^2) |Medium| |
 | 0139  |[Word Break](https://leetcode.com/problems/word-break/)|O(n^2)|O(n) |Medium| |
 | 056  |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|O(nlogn)|O(n) |Medium| |
+| 443  |[String Compression](https://leetcode.com/problems/string-compression/)|O(n)|O(1) |Easy| |
