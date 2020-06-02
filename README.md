@@ -14,3 +14,4 @@
 | 443  |[String Compression](https://leetcode.com/problems/string-compression/)|O(n)|O(1) |Easy| |
 | 973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|O(n + K)logn|O(n) |Medium| Use TreeMap, distance as key and an arrayList of points|
 | 4  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|O(log(min(x,y)))|O(1) |Hard| x and y are the lengths of two input arrays|
+| 5  |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|O(n))|O(n) |Medium| Sliding window and hash set|
