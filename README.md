@@ -17,3 +17,4 @@
 | 5  |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|O(n))|O(n) |Medium| Sliding window and hash set|
 | 237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|O(1))|O(1) |Easy|  Copy next node's data to the current node and adjust the next pointer of the current node|
 | 21  |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|O(n+m))|O(1) |Easy|  n and m is the number of nodes in the given linked lists|
+| 121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|O(n))|O(1) |Easy| Keep track of min price seen till date and calculate the profit for ith day|
