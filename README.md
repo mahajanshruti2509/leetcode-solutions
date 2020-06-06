@@ -20,3 +20,4 @@
 | 121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|O(n))|O(1) |Easy| Keep track of min price seen till date and calculate the profit for ith day|
 | 23  |[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|O(n log k))|O(n) |Hard| Use min heap|
 | 344  |[Reverse String](https://leetcode.com/problems/reverse-string/)|O(n))|O(1) |Easy| 2 pointers in opposite direction|
+| 412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|O(n))|O(1) |Easy| String concatenation|
