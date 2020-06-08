@@ -22,3 +22,4 @@
 | 344  |[Reverse String](https://leetcode.com/problems/reverse-string/)|O(n))|O(1) |Easy| 2 pointers in opposite direction|
 | 412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|O(n))|O(1) |Easy| String concatenation|
 | 2  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|O(max(m,n)))|O(max(m,n)) |Medium| |
+| 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|O(n)|O(1) |Easy| Kadane's algorithm |
