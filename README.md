@@ -23,3 +23,4 @@
 | 412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|O(n))|O(1) |Easy| String concatenation|
 | 2  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|O(max(m,n)))|O(max(m,n)) |Medium| |
 | 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|O(n)|O(1) |Easy| Kadane's algorithm |
+| 206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|O(n)|O(1) |Easy| Temporarily store next node's pointer, point head to a previous dummy node |
