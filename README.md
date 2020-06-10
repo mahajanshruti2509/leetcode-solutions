@@ -24,3 +24,4 @@
 | 2  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|O(max(m,n)))|O(max(m,n)) |Medium| |
 | 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|O(n)|O(1) |Easy| Kadane's algorithm |
 | 206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|O(n)|O(1) |Easy| Temporarily store next node's pointer, point head to a previous dummy node |
+| 560  |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|O(n)|O(n) |Medium| Store frequency map of ebery sum seen till now |
