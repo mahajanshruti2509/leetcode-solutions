@@ -27,3 +27,4 @@
 | 560  |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|O(n)|O(n) |Medium| Store frequency map of ebery sum seen till now |
 | 49  |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|O(nklog k)|O(nk) |Medium| n is the length of input array and k is the maximum length of string , sort every string and put it as a key in HashMap and put all matching strings in its corresponding list |
 | 349  |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|O(n+m)|O(n+m) |Easy| Hashset|
+| 102  |[Binary Tree Level Order Tranersal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|O(n)|O(n) |Medium| Queue and ArrayList|
