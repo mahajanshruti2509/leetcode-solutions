@@ -29,3 +29,4 @@
 | 349  |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|O(n+m)|O(n+m) |Easy| Hashset|
 | 102  |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|O(n)|O(n) |Medium| Queue and ArrayList|
 | 103  |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|O(n)|O(n) |Medium| 2 Stacks|
+| 62  |[Unique Paths](https://leetcode.com/problems/unique-paths/)|O(nm)|O(nm) |Medium| Dynamic programming|
