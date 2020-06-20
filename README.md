@@ -32,4 +32,5 @@
 | 62  |[Unique Paths](https://leetcode.com/problems/unique-paths/)|O(nm)|O(nm) |Medium| Dynamic programming|
 | 63  |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|O(nm)|O(1) |Medium| Dynamic programming|
 | 509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|O(n)|O(1) |Easy| Dynamic programming|
+| 46  |[Permutations](https://leetcode.com/problems/permutations/)|O(n!)|O(n!) |Medium| Recursion|
 
