@@ -34,4 +34,5 @@
 | 509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|O(n)|O(1) |Easy| Dynamic programming|
 | 46  |[Permutations](https://leetcode.com/problems/permutations/)|O(n!)|O(n!) |Medium| Recursion|
 | 70  |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|O(n)|O(n) |Easy| Dynamic programming|
+| 322  |[Coin Change](https://leetcode.com/problems/coin-change/)|O(ac)|O(a) |Medium| a = amount to make change for, c is number of coins provided, Dynamic programming|
 
