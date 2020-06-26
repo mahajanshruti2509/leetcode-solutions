@@ -17,15 +17,17 @@ class Solution {
             return 0;
         }
         PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>((a, b) -> a - b);
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
-        minHeap.add(intervals[0][1]);
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]); // O(n logn )
+        minHeap.add(intervals[0][1]); // add 1st meeting's end time to the heap
         
         for(int i = 1; i < intervals.length; i++) {
-            int earliestEndTime = minHeap.peek();
-            if(intervals[i][0] >= earliestEndTime) {
-                minHeap.poll();
+            int earliestEndTime = minHeap.peek(); // O(1)
+            int currentStartTime = intervals[i][0];
+            int currentEndTime = intervals[i][1];
+            if( currentStartTime >= earliestEndTime) {
+                minHeap.poll(); // O(log n)
             }
-            minHeap.add(intervals[i][1]);
+            minHeap.add(currentEndTime); // O(log n)
         }
         return minHeap.size();
     }
