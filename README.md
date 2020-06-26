@@ -36,4 +36,5 @@
 | 70  |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|O(n)|O(n) |Easy| Dynamic programming|
 | 322  |[Coin Change](https://leetcode.com/problems/coin-change/)|O(ac)|O(a) |Medium| a = amount to make change for, c is number of coins provided, Dynamic programming|
 | 146  |[LRU Cache](https://leetcode.com/problems/lru-cache/)|O(1)|O(capacity) |Medium| Hashmap and doubly linked list|
+| 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|O(n+m)|O(1) |Easy| Two pointers|
 
