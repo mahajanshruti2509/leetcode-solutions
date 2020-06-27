@@ -37,4 +37,6 @@
 | 322  |[Coin Change](https://leetcode.com/problems/coin-change/)|O(ac)|O(a) |Medium| a = amount to make change for, c is number of coins provided, Dynamic programming|
 | 146  |[LRU Cache](https://leetcode.com/problems/lru-cache/)|O(1)|O(capacity) |Medium| Hashmap and doubly linked list|
 | 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|O(n+m)|O(1) |Easy| Two pointers|
+| 14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|O(n)|O(1) |Easy| 1st string is prefix, reduce prefix until indexOf returns 1|
+
 
