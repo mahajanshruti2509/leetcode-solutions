@@ -19,7 +19,7 @@ class Solution {
             return intervals;
         }
         
-        Arrays.sort(intervals, (arr1, arr2) -> Integer.compare(arr1[0], arr2[0]));
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
         List<int[]> outputArr = new ArrayList<>();
         int[] currentInterval = intervals[0];
         outputArr.add(currentInterval);
