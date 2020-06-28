@@ -49,10 +49,10 @@ class Solution {
                 TreeNode current = s1.pop();
                 currentLevel1.add(current.val);
                 if(current.left != null) {
-                    s2.add(current.left);
+                    s2.push(current.left);
                 }
                 if(current.right != null) {
-                    s2.add(current.right);
+                    s2.push(current.right);
                 }
             }
             if(currentLevel1.size() > 0) {
@@ -64,10 +64,10 @@ class Solution {
                 TreeNode current = s2.pop();
                 currentLevel2.add(current.val);
                 if(current.right != null) {
-                    s1.add(current.right);
+                    s1.push(current.right);
                 }
                 if(current.left != null) {
-                    s1.add(current.left);
+                    s1.push(current.left);
                 }
             }
             if(currentLevel2.size() > 0) {
