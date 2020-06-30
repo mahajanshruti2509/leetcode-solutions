@@ -39,5 +39,6 @@
 | 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|O(n+m)|O(1) |Easy| Two pointers|
 | 14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|O(n)|O(1) |Easy| 1st string is prefix, reduce prefix until indexOf returns 1|
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|O(n)|O(h) |Easy| |
+| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|O(log n)|O(1) |Medium| Binary search |
 
 
