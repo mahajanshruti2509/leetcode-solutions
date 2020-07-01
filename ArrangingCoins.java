@@ -31,11 +31,29 @@
  *
  */
 class Solution {
-  public int arrangeCoins(int n) {
-    int stairs;
-    for(stairs = 1; stairs <= n; stairs++) {
-      n = n - stairs;
+    public int arrangeCoins(int n) {
+        long start = 1;
+        long end = n;
+        long mid, currSum;
+        
+        while(start <= end) {
+            mid = start + (end - start) / 2;
+            currSum = mid * (mid + 1) /2;
+            
+            if(currSum == n) {
+                return (int) mid;
+            }
+            
+            if(n < currSum) {
+                end = mid - 1;
+            } else {
+                start = mid + 1;
+            }
+        }
+        return (int) end;
     }
-    return stairs - 1;
-  }
 }
+/*
+Time Complexity : O (log n);
+Space Complexity: O (1)
+*/
