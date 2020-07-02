@@ -44,5 +44,6 @@
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|O(n* squrt n)|O(n) |Medium| Dynamic programming |
 | 15 |[3sum](https://leetcode.com/problems/3sum/)|O(n^2)|O(n) |Medium| Two pointers|
 | 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|O(n)|O(n) |Medium| Queue, Stack and ArrayList|
+| 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Exponential|O(n) |Medium| Backtracking|
 
 
