@@ -42,5 +42,6 @@
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|O(log n)|O(1) |Medium| Binary search |
 | 11 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|O(n)|O(1) |Medium| Two pointers |
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|O(n* squrt n)|O(n) |Medium| Dynamic programming |
+| 15 |[3sum](https://leetcode.com/problems/3sum/)|O(n^2)|O(n) |Medium| Two pointers|
 
 
