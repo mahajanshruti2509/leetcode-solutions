@@ -46,5 +46,6 @@
 | 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|O(n)|O(n) |Medium| Queue, Stack and ArrayList|
 | 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Exponential|O(n) |Medium| Backtracking|
 | 54 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|O(n)|O(1) |Medium| Just iterate|
+| 953 |[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|O(n)|O(1) |Medium| Implement custom compare method|
 
 
