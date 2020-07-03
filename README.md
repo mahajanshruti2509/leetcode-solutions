@@ -45,5 +45,6 @@
 | 15 |[3sum](https://leetcode.com/problems/3sum/)|O(n^2)|O(n) |Medium| Two pointers|
 | 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|O(n)|O(n) |Medium| Queue, Stack and ArrayList|
 | 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Exponential|O(n) |Medium| Backtracking|
+| 54 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|O(n)|O(1) |Medium| Just iterate|
 
 
