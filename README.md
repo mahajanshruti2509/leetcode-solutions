@@ -49,5 +49,6 @@
 | 953 |[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|O(n)|O(1) |Medium| Implement custom compare method|
 | 127 |[Word Ladder](https://leetcode.com/problems/word-ladder/)|O(n^2)|O(n) |Medium| BFS using queue|
 | 17 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|O(3 ^ N * 4 ^ M))|O(3 ^ N * 4 ^ M) |Medium| Cartesian product using LinkedList|
+| 138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|O(n)|O(n)|Medium| 2 pass technique with hash map|
 
 
