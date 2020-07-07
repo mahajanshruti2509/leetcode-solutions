@@ -51,5 +51,6 @@
 | 17 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|O(3 ^ N * 4 ^ M))|O(3 ^ N * 4 ^ M) |Medium| Cartesian product using LinkedList|
 | 138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|O(n)|O(n)|Medium| 2 pass technique with hash map|
 | 380 |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|O(1)|O(n)|Medium| ArrayList and HashMap|
+| 347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|(O(Nlogk) )|O(n)|Medium| Map and PriorityQueue|
 
 
