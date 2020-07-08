@@ -54,5 +54,6 @@
 | 380 |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|O(1)|O(n)|Medium| ArrayList and HashMap|
 | 347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| O(Nlogk)|O(n)|Medium| Map and PriorityQueue|
 | 200 |[Number of Islands](https://leetcode.com/problems/number-of-islands/)| O(mn)|O(mn)|Medium| Depth first search in recursive fashion|
+| 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)| O(E + V)|O(E + V)|Medium| Topological sort using Depth first search|
 
 
