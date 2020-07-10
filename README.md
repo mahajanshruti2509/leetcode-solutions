@@ -56,3 +56,4 @@
 | 200 |[Number of Islands](https://leetcode.com/problems/number-of-islands/)| O(mn)|O(mn)|Medium| Depth first search in recursive fashion|
 | 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)| O(E + V)|O(E + V)|Medium| Topological sort using Depth first search|
 | 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| O(E + V)|O(E + V)|Medium| Topological sort using Depth first search|
+| 662 |[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)| O(n)|O(n)|Medium| Level Order Traversal|
